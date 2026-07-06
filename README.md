@@ -38,7 +38,7 @@ python main.py
 ## Пример работы
 
 ### Ввод
-![[Pasted image 20260706224103.png]]
+<img width="477" height="821" alt="Pasted image 20260706224103" src="https://github.com/user-attachments/assets/b79a0d84-f38c-4fe0-9538-c7d1f4688349" />
 
 ### Вывод
-![[Pasted image 20260706224153.png]]
+<img width="629" height="680" alt="Pasted image 20260706224153" src="https://github.com/user-attachments/assets/669dba47-2ecb-4f1b-9b43-747f70ef6842" />
